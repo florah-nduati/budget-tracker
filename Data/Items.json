@@ -1,1 +1,6 @@
-[{"title":"flour","quantity":"1 kilo","price":"300"}]
+[
+  { "title": "flour", "quantity": "1 kilo", "price": "300" },
+  { "title": "sugar", "quantity": "1 kilo", "price": "200" },
+  { "title": "salt", "quantity": "2 kgs", "price": "100" },
+  { "title": "soap", "quantity": "800 grams", "price": "150" }
+]
